@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+   <elements>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+         <primaryKey>9</primaryKey>
+         <hashPassword>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</hashPassword>
+         <login>admin</login>
+         <role>ADMIN</role>
+      </element>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+         <primaryKey>0</primaryKey>
+         <hashPassword>BPiZbadjt6lpsQKO4wB1aerzpjVIbdqyEdUSyFud+Ps=</hashPassword>
+         <login>user</login>
+         <role>SIMPLE_USER</role>
+      </element>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+         <primaryKey>0</primaryKey>
+         <hashPassword>FVPMYv8kYETGg6YeID5lVBmQ5/zUr5RD0iuVV+zJrFQ=</hashPassword>
+         <login>editor</login>
+         <role>EDITOR</role>
+      </element>
+   </elements>
+</table>

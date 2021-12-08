@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+   <elements>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archiveElement">
+         <primaryKey>11</primaryKey>
+         <age>12</age>
+         <city>asdas</city>
+         <country>sadas</country>
+         <descriptionLink>https://s.s/s</descriptionLink>
+         <grade>6</grade>
+         <house>adsda</house>
+         <name>dsads</name>
+         <onScholarship>false</onScholarship>
+         <rating>1.0</rating>
+         <scholarship>0</scholarship>
+         <street>asadas</street>
+      </element>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archiveElement">
+         <primaryKey>14</primaryKey>
+         <age>23</age>
+         <city>asd</city>
+         <country>dasd</country>
+         <descriptionLink>https://s.s/s</descriptionLink>
+         <grade>10</grade>
+         <house>asd</house>
+         <name>kajd</name>
+         <onScholarship>false</onScholarship>
+         <rating>9.0</rating>
+         <scholarship>0</scholarship>
+         <street>asd</street>
+      </element>
+      <element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="archiveElement">
+         <primaryKey>17</primaryKey>
+         <age>12</age>
+         <city>das</city>
+         <country>asdas</country>
+         <descriptionLink>https://s.s/s</descriptionLink>
+         <grade>7</grade>
+         <house>sad</house>
+         <name>dandy</name>
+         <onScholarship>true</onScholarship>
+         <rating>1.0</rating>
+         <scholarship>123</scholarship>
+         <street>sad</street>
+      </element>
+   </elements>
+</table>
